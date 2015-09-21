@@ -25,6 +25,7 @@ file_1.csv
 1248,authors,Joshua Bloch
 1248,list price,10 USD
 1248,publisher,Addison-Wesley
+
 file_2.csv
 
 13579, list price,11 USD
@@ -37,6 +38,7 @@ if publisher is Addison-Wesley and list price is >= 10, notify to subscriber2
 Sample Query
 
 GET 13579
+
 Result Set:
 
 title=freakonomics
